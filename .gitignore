@@ -1,0 +1,16 @@
+**/.venv/**
+**/venv/**
+**/node_modules/**
+**/.next/**
+**/.next-deeptutor/**
+**/__pycache__/**
+**/data/**
+**/.gradle/**
+**/build/**
+.env
+*.env
+!*.env.example
+logs/
+research/vane/
+twa/*.env
+.DS_Store

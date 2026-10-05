@@ -1,0 +1,41 @@
+{
+  "packageId": "mx.undetaker08.astraclone",
+  "host": "riz0308.tail0820b4.ts.net",
+  "name": "Astra Clone Tutor IA",
+  "launcherName": "AstraClone",
+  "display": "standalone",
+  "themeColor": "#0A0A0A",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#0A0A0A",
+  "startUrl": "/chat",
+  "iconUrl": "https://riz0308.tail0820b4.ts.net:8443/icon-512x512.png",
+  "signingKey": {
+    "path": "",
+    "alias": ""
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://riz0308.tail0820b4.ts.net:8443/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": false,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://riz0308.tail0820b4.ts.net:8443/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "displayOverride": [],
+  "appVersion": "1.0.0"
+}

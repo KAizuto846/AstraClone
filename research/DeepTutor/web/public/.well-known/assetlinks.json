@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mx.undetaker08.astraclone",
+      "sha256_cert_fingerprints": [
+        "FE:3E:5A:79:E3:51:53:9B:DC:E6:8B:7E:18:74:DE:55:72:D8:1A:A6:A2:F8:CF:9C:68:A4:4C:9C:51:7F:32:13"
+      ]
+    }
+  }
+]
